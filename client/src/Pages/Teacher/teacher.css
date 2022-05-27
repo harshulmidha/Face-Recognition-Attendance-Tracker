@@ -1,0 +1,62 @@
+form{
+    width: calc(100% - 40px);
+    max-width: 600px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    margin-top: 20px;
+    width: calc(100% - 20px);
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+.btn__container{
+    width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+table{
+    width: calc(100% - 40px);
+    max-width: 800px;
+    table-layout: fixed;
+}
+
+thead td{
+    background: var(--color-light);
+    color: white;
+    cursor: pointer;
+}
+
+td{
+    padding: 5px;
+}
+td.table_roll{
+    width: 15%;
+}
+td.table__name{
+    width: 55%;
+}
+td.table__hour{
+    width: 15%;
+    overflow: hidden;
+}
+td.table__date{
+    width: 15%;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 708px) {
+    /* For mobile phones: */
+    table {
+      width: auto;
+    }
+  }
