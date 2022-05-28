@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-[Click here](https://youtu.be/2mbSjsMOrkM) to redirect to the YouTube video demonstration
+[Click here](https://youtu.be/2mbSjsMOrkM) to view the YouTube video demonstration
 
 ## Description
 
