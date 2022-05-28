@@ -1,3 +1,8 @@
+# Adding new students
+
+For adding new students, take a picture and upload it to [`./server_flask/images`](./server_flask/images) with the filename<br/> `<6 Digit Roll No.>_<Name>.jpg`.<br/><br/>
+For example, if the name of a student is "Harshul Midha" and his Roll No. is "220002", then the filename would be<br/> `220002_Harshul Midha.jpg`
+
 # Installing requirements
 
 ```bash

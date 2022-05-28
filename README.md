@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-[Click here](https://youtu.be/2mbSjsMOrkM) to redirect to the YouTube video demonstration
+[Click here](https://youtu.be/2mbSjsMOrkM) to view the YouTube video demonstration
 
 ## Description
 
@@ -29,7 +29,7 @@ If the password entered is incorrect, an alert is shown.
 
 ## How to Run?
 
-For instructions on how to run the application on your local machine after cloning the repository, go to [setup.md](setup.md)
+For instructions on how to run the application on your local machine after cloning the repository, go to [`setup.md`](setup.md)
 
 ## Screenshots
 ![homepage](screenshots/homepage.png)<br/>
