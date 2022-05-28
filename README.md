@@ -30,10 +30,3 @@ If the password entered is incorrect, an alert is shown.
 ## How to Run?
 
 For instructions on how to run the application on your local machine after cloning the repository, go to [`setup.md`](setup.md)
-
-## Screenshots
-![homepage](screenshots/homepage.png)<br/>
-![student](screenshots/student.png)<br/>
-![welcome](screenshots/welcome.png)<br/>
-![teacher_login](screenshots/teacher_login.png)<br/>
-![teacher](screenshots/teacher.png)
