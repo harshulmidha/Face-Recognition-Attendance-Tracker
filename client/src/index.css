@@ -55,3 +55,7 @@ body{
 #AT{
     font-size: 36px;
 }
+
+#demo:visited{
+    color: blue;
+}
