@@ -1,8 +1,13 @@
 # Attendance Tracker
 
+## Video Demo
+
+[Click here](https://youtu.be/2mbSjsMOrkM) to redirect to the YouTube video demonstration
+
 ## Description
 
 **Attendance Tracker** is an Application that automates attendance. Students can login using their camera either through laptop, tablet or mobile. Teachers can view the record of students who are currently logged in to the site along with their roll numbers, and respective date and time of logging in.
+
 
 ## How does it work?
 
@@ -25,3 +30,10 @@ If the password entered is incorrect, an alert is shown.
 ## How to Run?
 
 For instructions on how to run the application on your local machine after cloning the repository, go to [setup.md](setup.md)
+
+## Screenshots
+![homepage](screenshots/homepage.png)<br/>
+![student](screenshots/student.png)<br/>
+![welcome](screenshots/welcome.png)<br/>
+![teacher_login](screenshots/teacher_login.png)<br/>
+![teacher](screenshots/teacher.png)
