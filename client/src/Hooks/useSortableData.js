@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react"
 
+// creating a hook for sorting the data according to the particular column header
 const useSortableData = (items, config=null) => {
     const [sortConfig, setSortConfig] = useState(config)
 
